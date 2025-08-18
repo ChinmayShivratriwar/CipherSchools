@@ -101,7 +101,7 @@
             <mxPoint x="370" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjxwa1OgpTy0bqbMmFWm-8" value="Analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tjxwa1OgpTy0bqbMmFWm-8" value="Analytics/Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjxwa1OgpTy0bqbMmFWm-9" value="Categories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,7 +113,7 @@
             <mxPoint x="520" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjxwa1OgpTy0bqbMmFWm-11" value="Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tjxwa1OgpTy0bqbMmFWm-11" value="Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjxwa1OgpTy0bqbMmFWm-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlmv7btFgNykXjglH9dx-11">
