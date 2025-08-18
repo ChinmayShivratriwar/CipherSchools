@@ -540,8 +540,8 @@
             <mxPoint x="910" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjxwa1OgpTy0bqbMmFWm-143" value="There will be multiple tables&amp;nbsp;&lt;div&gt;or databases, these databases&lt;/div&gt;&lt;div&gt;will be communicated with event bus&lt;/div&gt;&lt;div&gt;In this design we show single database&amp;nbsp;&lt;/div&gt;&lt;div&gt;for simplicity of understanding&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-55" width="230" height="90" as="geometry" />
+        <mxCell id="tjxwa1OgpTy0bqbMmFWm-143" value="There will be multiple tables&amp;nbsp;&lt;div&gt;or databases, these databases&lt;/div&gt;&lt;div&gt;will be communicated with event bus&lt;/div&gt;&lt;div&gt;In this design we show single database&amp;nbsp;&lt;/div&gt;&lt;div&gt;for simplicity,&amp;nbsp;in practice, each service may&amp;nbsp;&lt;/div&gt;&lt;div&gt;own its own DB schema&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-60" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tjxwa1OgpTy0bqbMmFWm-144" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="50" height="50" as="geometry" />
@@ -566,6 +566,9 @@
         </mxCell>
         <mxCell id="tjxwa1OgpTy0bqbMmFWm-153" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
           <mxGeometry x="660" y="345" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjxwa1OgpTy0bqbMmFWm-154" value="Publish/Subscribe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-52" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
